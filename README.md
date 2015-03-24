@@ -12,7 +12,7 @@ Hoje com a grande quantidade de acesso a informação, temos uma grande número 
 ##Objetivos
 Criação de um portal que facilite a troca de livros entre pessoas (físicas e/ou jurídicas), visto que não temos esse tipo de serviço disponível no Brasil. Com o a popularização da internet e das redes sociais, um site colaborativo para troca de livros fornece um facilitador para pessoas que querem, com gastos mínimos, permutar seu acervo bibliográfico.
 
-* Artefatos de Análise 
+##Artefatos de Análise 
 
 - Diagrama de Caso de Uso.
 - Descrição de Caso de Uso.
